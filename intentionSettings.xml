@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Android/Insert App Indexing API Code" />
     <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="Java/Imports/Add On Demand Static Import" />
+    <ignoreAction name="Java/Declaration/Move initializer to constructor" />
   </component>
 </application>
